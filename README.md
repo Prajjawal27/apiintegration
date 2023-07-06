@@ -10,4 +10,5 @@ This project contain api.
 
 1. Clone the repository:
 Example to run api
-GET /api/monthly_sales?product=ProductA&year=2023
+run this api on your localhost by following examples
+localhost /api/monthly_sales?product=ProductA&year=2023
